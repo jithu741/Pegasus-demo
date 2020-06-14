@@ -1,0 +1,176 @@
+body {
+    font-family: 'Indie Flower', cursive;
+}
+
+
+#title {
+    background-color : #4cbbb9;
+    !*--  #ffa41b --*!
+    color: #fff;
+}
+
+h1 {
+    font-family: 'Abril Fatface', cursive;
+    size: 4rem;
+    line-height: 2;
+}
+
+.containerfluid {
+    padding: 3% 16%;
+}
+
+
+
+.navbar {
+    padding: 0 0 0 4.5rem ;
+}
+
+.navbar-brand {
+    font-family: "ubuntu";
+    font-size: 2rem  !important;
+    font-weight: bold;
+}
+
+.nav-item {
+    padding: 0 18px;
+}
+
+.nav-link {
+    font-size: 1.2rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    color: white;
+}
+
+.download-button {
+    margin: 5% 3% 5% 0;
+}
+
+.title-image {
+    transform: rotate(-10deg);
+    right: 30%;
+}
+
+.abc-image {
+    transform: rotate(+30deg);
+    right: 30%;
+    
+    
+}
+
+#features {
+    background-color: white;
+    padding : 7% 15%;
+    position: relative;
+    z-index : 1;
+}
+
+.feature-box  {
+    text-align: center;
+    padding: 5%;
+}
+
+h3 {
+    font-size: 1.5 rem;
+}
+
+p {
+    color: #8f8f8f;
+}
+
+.icon {
+    margin-bottom: 1rem;
+    color: #00bdaa;
+}
+
+.icon:hover {
+    color: #035aa6;
+}
+
+.wiki {
+    color: white;
+}
+
+.wiki:hover {
+    
+}
+
+/* Testimonials */
+
+#testimonials {
+    text-align: center;
+    background-color: #4cbbb9 ;
+    color: white;
+}
+.t-image {
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+h2 {
+    font-size: 2rem !important;
+    line-height: 1.5 !important ;
+    padding-bottom: 2rem;
+}
+
+.carousel-item {
+    padding: 7% 15%;
+}
+
+
+/* Press*/
+
+#press {
+    background-color: #4cbbb9;
+    text-align: center;
+    padding-bottom: 5%;
+}
+
+.press-logo {
+
+    width: 15%;
+
+    height: 100px;
+
+    margin: 20px 20px 50px;
+    
+}
+
+/* services */
+
+#services {
+    text-align: center;
+    padding: 100px;
+}
+
+.service-columns {
+    padding: 3% 2%;
+}
+
+/*cta*/
+
+#cta {
+    text-align: center;
+    background-color: #4cbbb9 ;
+    padding: 7% 15%;
+    color: white;
+}
+
+
+/*footer*/
+
+#footer {
+    padding: 7% 15%;
+    text-align: center;
+}
+
+.footer-links {
+    margin: 20px 10px;
+}
+
+
+
+
+
+
